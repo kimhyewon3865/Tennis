@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a45fced9a16e38583000ebe43f243e8e"
+build_time: [532837204, 684348000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Address+C.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Address.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Bytes.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Conversions.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Error.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/FDSet.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/InternetSocket.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Pipe.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Select.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Socket.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/SocketOptions+Deprecated.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/SocketOptions.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/TCPSocket.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/Types.swift": [532834633, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Socks-1.2.0/Sources/SocksCore/UDPSocket.swift": [532834633, 0]

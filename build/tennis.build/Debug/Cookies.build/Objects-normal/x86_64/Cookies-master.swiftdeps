@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "8439a58892919b2a59e9b6d958815562"
+build_time: [532837257, 147803000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookie+BytesConvertible.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookie+Parse.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookie+Serialize.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookie.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookies+BytesConvertible.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookies+Literal.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookies+Parse.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookies+Serialize.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Cookies.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Request+Cookies.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cookies/Response+Cookies.swift": [532834443, 0]

@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a0e050fccd6e86ff2dcd3ef80e6cc003"
+build_time: [532837231, 926637000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Bind+Node.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Bind.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Binds.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Connection.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Database.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Error.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Field+Variant.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Field.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/Fields.swift": [532837072, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/MySQL-1.0.2/Sources/MySQL/MySQL+Node.swift": [532837072, 0]

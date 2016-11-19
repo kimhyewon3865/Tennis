@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "7b630f4567aafb7549d22db79affe818"
+build_time: [532837230, 519882000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/TurnstileError.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Subject.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Turnstile.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/APIKey.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Credentials.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/CredentialsError.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Token.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/UsernamePassword.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Account.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/MemoryRealm.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Realm.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [532834661, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/SessionManager.swift": [532834661, 0]

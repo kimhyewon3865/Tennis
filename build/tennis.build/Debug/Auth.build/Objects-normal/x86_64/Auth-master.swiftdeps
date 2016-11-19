@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "63b9612a1faa84cf5c28226fd8a777bd"
+build_time: [532837260, 907773000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/AuthError.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/AuthMiddleware.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/CacheSessionManager.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/ProtectMiddleware.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Request+Subject.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Authenticator/Authenticator.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Authenticator/Realm.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Authenticator/User+Authenticator.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Credentials/Identifier.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Header/Authorization.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Header/Basic.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Header/Bearer.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/Header/Request+Authorization.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Auth/Authentication/User/User.swift": [532834443, 0]

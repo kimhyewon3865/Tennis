@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "d1163247771241cbaa8513286c40428a"
+build_time: [532837272, 863290000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/VaporMySQL-1.0.0/Sources/VaporMySQL/Provider.swift": [532837064, 0]

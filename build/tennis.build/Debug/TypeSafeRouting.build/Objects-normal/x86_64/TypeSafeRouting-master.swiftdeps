@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "c7f5d65acf0e40eb90139de1e6550573"
+build_time: [532837254, 923403000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Routing-1.0.1/Sources/TypeSafeRouting/Generated.swift": [532834686, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Routing-1.0.1/Sources/TypeSafeRouting/StringInitializable.swift": [532834686, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Routing-1.0.1/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [532834686, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "db65000b6872dd2ecf59e23db1560c45"
+build_time: [532837204, 326680000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [532834599, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [532834599, 0]

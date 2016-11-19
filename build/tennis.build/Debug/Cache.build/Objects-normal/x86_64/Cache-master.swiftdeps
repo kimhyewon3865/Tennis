@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "075a3c0f117636c3e8f587e7be1a8aa1"
+build_time: [532837259, 380962000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cache/CacheProtocol.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cache/FluentCache.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Cache/MemoryCache.swift": [532834443, 0]

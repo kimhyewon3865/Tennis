@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "eb0b178e3bcb96abead767a466ff39f6"
+build_time: [532837237, 597353000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/FluentMySQL-1.0.1/Sources/FluentMySQL/MySQLDriver.swift": [532837067, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/FluentMySQL-1.0.1/Sources/FluentMySQL/MySQLSerializer.swift": [532837067, 0]

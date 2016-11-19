@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "bd695e86a30f51bc465f710264aae0f3"
+build_time: [532837218, 81960000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": [532834490, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": [532834490, 0]

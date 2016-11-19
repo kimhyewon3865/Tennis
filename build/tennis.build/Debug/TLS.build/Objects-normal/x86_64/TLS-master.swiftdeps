@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a607cef2b8bcdf4805fcee6d8919cc83"
+build_time: [532837233, 132869000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/TLS-1.1.0/Sources/TLS/Certificates.swift": [532834628, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/TLS-1.1.0/Sources/TLS/Config.swift": [532834628, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/TLS-1.1.0/Sources/TLS/Context.swift": [532834628, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/TLS-1.1.0/Sources/TLS/Error.swift": [532834628, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/TLS-1.1.0/Sources/TLS/Mode.swift": [532834628, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/TLS-1.1.0/Sources/TLS/Socket.swift": [532834628, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/TLS-1.1.0/Sources/TLS/Utilities.swift": [532834628, 0]

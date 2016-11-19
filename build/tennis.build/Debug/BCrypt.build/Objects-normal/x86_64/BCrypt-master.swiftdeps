@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "734e19c4c8ff36d962332d9732dab08d"
+build_time: [532837238, 465364000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Crypto-1.0.1/Sources/BCrypt/BCrypt.swift": [532834490, 0]

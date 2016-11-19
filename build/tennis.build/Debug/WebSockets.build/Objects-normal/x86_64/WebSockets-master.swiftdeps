@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "fc3cd444e6ada5c81630dd54ae0299cc"
+build_time: [532837249, 546002000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Request+WebSockets.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/WebSocketFormatErrors.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Client/WebSocket+Client.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Communication/WebSocket+ControlFrames.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Communication/WebSocket+Send.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Connection/Headers+WebSockets.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Connection/WebSockets+Hash.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Model/Fragmentation.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Model/Frame.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Model/WebSocket+Error.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Model/WebSocket.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Serialization/FrameDeserializer.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Serialization/FrameSerializer.swift": [532834605, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Engine-1.3.0/Sources/WebSockets/Serialization/WebSockets+Flags.swift": [532834605, 0]

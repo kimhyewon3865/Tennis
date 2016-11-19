@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "2350fe427df39a827914cf570fb111fd"
+build_time: [532837225, 334462000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Fluent-1.1.0/Sources/FluentTester/Atom.swift": [532834569, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Fluent-1.1.0/Sources/FluentTester/Compound.swift": [532834569, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Fluent-1.1.0/Sources/FluentTester/Tester+InsertAndFind.swift": [532834569, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Fluent-1.1.0/Sources/FluentTester/Tester+PivotsAndRelations.swift": [532834569, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Fluent-1.1.0/Sources/FluentTester/Tester+Utilities.swift": [532834569, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Fluent-1.1.0/Sources/FluentTester/Tester.swift": [532834569, 0]

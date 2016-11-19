@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "5a9fadb9f6d5f0cc6ac1cb24541636e8"
+build_time: [532837260, 281057000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Sessions/CacheSessions.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Sessions/MemorySessions.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Sessions/Request+Session.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Sessions/Session.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Sessions/SessionsMiddleware.swift": [532834443, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Vapor-1.1.12/Sources/Sessions/SessionsProtocol.swift": [532834443, 0]

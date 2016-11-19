@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "bb1ce4f674c91e3523bd68f6dc1e4d92"
+build_time: [532837224, 574409000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/JSON+Bytes.swift": [532834645, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/JSON+Equatable.swift": [532834645, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/JSON+Node.swift": [532834645, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/JSON+Parse.swift": [532834645, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/JSON+Serialize.swift": [532834645, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/JSON.swift": [532834645, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/JSONRepresentable.swift": [532834645, 0]
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/JSON-1.0.1/Sources/JSON/Sequence+Convertible.swift": [532834645, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "7f47cacacf5e0eea7ca964b019677c1f"
+build_time: [532837203, 836085000]
+inputs:
+  "/Users/kimhyewon/Documents/Server/tennis/Packages/Core-1.0.0/Sources/libc/libc.swift": [532834497, 0]
